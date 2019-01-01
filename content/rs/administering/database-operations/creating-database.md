@@ -117,7 +117,7 @@ To create a new database in the UI:
     with SSL encryption, you have to enter the contents of the client
     certificate to the **SSL client authentication** field. For
     additional details, refer to [Securing client connection with
-    SSL]({{< relref "/rs/administering/security/client-connections.md" >}}).
+    SSL]({{< relref "/rs/administering/designing-production/security/client-connections.md" >}}).
 1. Specify whether to perform a **periodic back up** of the database.
     For additional details, refer to [Database
     backup]({{< relref "/rs/administering/database-operations/database-backup.md" >}}).
